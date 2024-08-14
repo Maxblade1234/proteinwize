@@ -1,9 +1,9 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# 🧪 Protein Wize
 
-Description of the app ...
+
+Enter a protein sequence and the app will output a predicted model of that protein. The confidence of the protein model being accurate is also displayed below the image as the plddt value.
+
+
 
 ## Demo App
 
